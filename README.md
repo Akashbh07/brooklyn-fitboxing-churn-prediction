@@ -7,8 +7,3 @@ This project is developed as part of the individual coursework for the module **
 - `fitboxing_churn_dataset.csv`: The dataset containing member demographics, attendance metrics, and behavior trends.
 - `M516_Final.ipynb`: The main Jupyter Notebook containing EDA, preprocessing, model training, evaluation, and risk scoring.
 - `README.md`: Project documentation and setup guide.
-
-## Installation & Prerequisites
-Ensure you have Python 3.8+ installed along with the required libraries:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
